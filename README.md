@@ -10,5 +10,7 @@ CNN GAN (MNIST)- https://colab.research.google.com/drive/19m_4Yv97hz8VCzHu9nuVM0
 
 CNN GAN (CIFAR 10)- https://colab.research.google.com/drive/1waBmLU2LgOxvfMZYFmsxljZc0yQG6j98?usp=sharing
 
+CNN GANs using Wasserstein Loss function- https://colab.research.google.com/drive/1mORvd9XoK_7UIAzM9KX19rCz4A57j8oC?usp=sharing 
+
 Upcoming- 1) MLP Gans for Cifar10
           2)Transformer based GANs for both MNIST and Cifar10
